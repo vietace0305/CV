@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> CV </title>
+
+</head>
+<body>
+<br>
+<br>
+<img src="124809382_3015528622066909_896919940377851557_o (1).jpg" height="200" width="200"/>
+<ul>
+    <li>Họ Và Tên: Hồ Bá Việt</li>
+    <li>Ngày sinh: 30/07/1998</li>
+    <li>Địa chỉ: xã Đô Thành, huyện Yên Thành, tỉnh Nghệ AN</li>
+    <li>Email: viet03051998@gmail.com</li>
+</ul>
+<hr>
+<h1>Học vấn</h1>
+<ul>
+    <li>9/2015-12/2019</li>
+    <li>Cử Nhân</li>
+    <li>Trường Đại học Sư Phạm Kỹ Thuật Vinh</li>
+    <li>Xếp loại: Khá</li>
+    <li>Khoa:Kinh Tế</li>
+    <li>Chuyên ngành: Kế Toán</li>
+</ul>
+<hr>
+<h1>Kỹ Năng</h1>
+<ul>
+    <li>Kỹ năng làm việc nhóm</li>
+    <li>Tư duy làm việc sáng tạo hiệu quả</li>
+    <li>Có khả năng lãnh đạo</li>
+    <li>Quản lý thời gian hiệu quả</li>
+
+</ul>
+<hr>
+<h1>Kinh Nghiệm</h1>
+
+<ul>
+    <h2>03/2020-05/2020</h2>
+    <li>Công ty Bảo hiểm Bảo Việt</li>
+    <li>Vị trí: Sale</li>
+    <h2>01/2021-03/2021</h2>
+    <li>Tập Đoàn Thành Vinh Group</li>
+    <li>Vị trí: Marketing online</li>
+</ul>
+<hr>
+<h1>Định hướng phát triển cá nhân</h1>
+<ul>
+    <li>Hoàn thành khóa học tại cá nhân và trở thành một coder</li>
+    <li>Tìm được công việc có môi trường làm việc có thể phát triển bản thân</li>
+    <li>Làm việc học hỏi kinh nghiêm từ 3 đến 5 năm </li>
+    <li>Nắm bắt cơ hội tìm con đường riêng cho bản thân</li>
+</ul>
+
+
+</body>
+</html>
